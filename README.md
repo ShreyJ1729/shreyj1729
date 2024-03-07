@@ -1,3 +1,3 @@
 # Shrey Joshi
 
-Personal Website: https://shreyjoshi.com/
+[Personal Website](https://shreyjoshi.com/)
